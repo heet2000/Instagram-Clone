@@ -1,3 +1,1 @@
-# Instagram-clone-MERN-Stack
-
-This Repo has complete code of my MERN stack series on YouTube https://www.youtube.com/playlist?list=PLB97yPrFwo5g0FQr4rqImKa55F_aPiQWk
+Designed and developed a MERN Stack based Web Application using MVC Framework to store and explore post. Implemented email login using JWT for user authentication to maintain functionalities like create, delete, like post and view only followed ones. Set up database with MongoDB Atlas and used Redux as the state management solution.
